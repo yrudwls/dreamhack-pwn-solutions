@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(checksec:*)",
+      "Bash(objdump:*)",
+      "Bash(gdb:*)"
+    ],
+    "deny": []
+  }
+}
